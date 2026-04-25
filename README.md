@@ -101,6 +101,7 @@
 - WordPress Snippets (wpprotools.io)
 - VSCode React Refactor (planbcoding)
 - Tailwind CSS IntelliSense (Tailwind Labs)
+- JSON Crack (Aykut Saraç)
 
 ## 🔑VS Code Keyboard Shortcuts 
 
